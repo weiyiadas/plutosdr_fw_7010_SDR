@@ -13,12 +13,13 @@
 
 
 * Make SD card boot image
-```
+
  After consolidation build is completed, build SD card boot image.
+ ```bash
  make sdimg
- Generate the SD image in the build_sdimg folder, and generate the following files
  ```
+ Generate the SD image in the build_sdimg folder, and generate the following files
+
 ![1744533580659](https://github.com/user-attachments/assets/fa599cc4-be92-48e0-b6b3-710a280cb6fa)
-```
+
 Copy all files to the SD card, and then insert the SD card into the development board
-```
