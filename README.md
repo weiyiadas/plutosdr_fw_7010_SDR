@@ -22,4 +22,5 @@
 
 ![1744533580659](https://github.com/user-attachments/assets/fa599cc4-be92-48e0-b6b3-710a280cb6fa)
 
+Format the SD card to FAT32
 Copy all files to the SD card, and then insert the SD card into the development board
