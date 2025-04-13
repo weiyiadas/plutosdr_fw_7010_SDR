@@ -4,7 +4,8 @@
  
  it is best to compile and install Vivado2022.2 in Ubuntu 18.04 desktop version：
  
-![image](https://github.com/user-attachments/assets/cb2cad3e-f2bd-4f85-905e-c457674a7539)
+![image](https://github.com/user-attachments/assets/7725210c-4c26-4afb-8eb7-61274f4dc616)
+
 
 * Build Instructions
 ```bash
