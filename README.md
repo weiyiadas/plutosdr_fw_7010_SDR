@@ -1,3 +1,6 @@
+* Compilation environment
+ In order to avoid accidents.
+ it is best to compile and install Vivado2022.2 in Ubuntu 18.04 desktop version
 
 * Build Instructions
 ```bash
