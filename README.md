@@ -1,5 +1,7 @@
 This code is modified from pluto-fw-v0.38
 
+In the root directory there is a file SCH.pdf which is the schematic diagram
+
 * Compilation environment
   
  In order to avoid accidents.
